@@ -14,7 +14,7 @@ button {
   font-size: 7px;
 }
 
-#main-content {
+#main_content {
   position: relative;
   display: flex;
   justify-content: center;
